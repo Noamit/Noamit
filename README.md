@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Noa Amit, an enthusiastic junior Software Developer<br>with a strong grasp of Object-Oriented Programming (OOP), Object-Oriented Design (OOD) and Web/Mobile Development. <br>My proficiency spans a range of programming languages,<br>including Java, C/C++, C#, JavaScript, PHP, and Python.<br>As a perpetual learner, I am committed to continuous exploration and growth.<br>I'm driven to push boundaries and excited to contribute to projects<br>that lead the way in innovation.
+Hello! I'm Noa Amit, an enthusiastic junior Software Developer<br>with a strong grasp of Object-Oriented Programming (OOP), Object-Oriented Design (OOD) and Web/Mobile Development. <br>My proficiency spans a range of programming languages, including Java, C/C++, C#, JavaScript, PHP, and Python.<br>As a perpetual learner, I am committed to continuous exploration and growth.<br>I'm driven to push boundaries and excited to contribute to projects<br>that lead the way in innovation.
 
 
 ## 🌐 Socials:
